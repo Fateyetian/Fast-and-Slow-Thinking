@@ -1,2 +1,4 @@
 # Fast-and-Slow-Thinking
 Fast and Slow Thinking: Enhancing Decision-Making Efficiency in LLM-based Agents
+
+This project explores the integration of fast and slow thinking processes in decision-making within Large Language Model (LLM)-based agents. Drawing from dual-system cognitive theory, the goal is to resolve conflicts between the intuitive, rapid decision-making (System 1) and the slow, deliberate reasoning (System 2) that often occurs in human cognition, and apply these insights to AI agents. By addressing the mismatch between these two thinking modes, this project aims to enhance the efficiency and accuracy of decision-making in strategic applications.
